@@ -1,0 +1,1 @@
+# License Plate Detection and Recognition using Azure Cognitive Services: <a href="https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-object-detection">Object Detection API</a> and <a href="https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr">Optical Character Recognication API</a> 
